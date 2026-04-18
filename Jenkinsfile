@@ -31,12 +31,15 @@ pipeline {
                 sh '''
                 echo "Waiting for backend to be ready..."
 
-                for i in {1..30}; do
+                i=1
+                while [ $i -le 30 ]
+                do
                   if curl -s http://localhost:5000/health > /dev/null; then
                     echo "App is running ✅"
                     exit 0
                   fi
                   echo "Still starting... ($i)"
+                  i=$((i+1))
                   sleep 5
                 done
 
