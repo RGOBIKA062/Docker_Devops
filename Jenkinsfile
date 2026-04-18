@@ -16,32 +16,36 @@ pipeline {
 
         stage('Build Images') {
             steps {
-                sh '''
-                docker compose -f ${COMPOSE_FILE} build
-                '''
+                sh 'docker compose -f ${COMPOSE_FILE} build'
             }
         }
 
         stage('Run Containers') {
             steps {
-                sh '''
-                docker compose -f ${COMPOSE_FILE} up -d
-                '''
+                sh 'docker compose -f ${COMPOSE_FILE} up -d'
             }
         }
 
         stage('Health Check') {
             steps {
                 sh '''
-                for i in {1..20}; do
+                echo "Waiting for backend to be ready..."
+
+                for i in {1..30}; do
                   if curl -s http://localhost:5000/health > /dev/null; then
                     echo "App is running ✅"
                     exit 0
                   fi
-                  echo "Waiting..."
+                  echo "Still starting... ($i)"
                   sleep 5
                 done
+
                 echo "App failed ❌"
+                echo "===== SERVER LOGS ====="
+                docker logs allcollegeevents-server || true
+                echo "===== MONGODB LOGS ====="
+                docker logs allcollegeevents-mongodb || true
+
                 exit 1
                 '''
             }
@@ -66,9 +70,13 @@ pipeline {
 
     post {
         always {
-            sh '''
-            docker compose -f ${COMPOSE_FILE} down -v
-            '''
+            sh 'docker compose -f ${COMPOSE_FILE} down -v'
+        }
+        success {
+            echo "Pipeline SUCCESS 🎉"
+        }
+        failure {
+            echo "Pipeline FAILED ❌ Check logs above"
         }
     }
 }
