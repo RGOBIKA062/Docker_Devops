@@ -1,0 +1,816 @@
+[2025-12-02T08:13:32.347Z] [INFO] Executing code {"language":"cpp","codeLength":93}
+[2025-12-02T08:13:32.352Z] [INFO] Executing cpp code via Groq API
+[2025-12-02T08:13:52.782Z] [INFO] Executing code {"language":"javascript","codeLength":93}
+[2025-12-02T08:13:52.790Z] [INFO] Executing javascript code via Groq API
+[2025-12-02T08:19:51.286Z] [INFO] Executing code {"language":"python","codeLength":39}
+[2025-12-02T08:19:51.289Z] [INFO] Executing python code via Groq API
+[2025-12-02T08:24:17.120Z] [INFO] Executing code {"language":"python","codeLength":39}
+[2025-12-02T08:24:17.123Z] [INFO] Executing python code via Groq API
+[2025-12-02T08:26:58.503Z] [INFO] Executing code {"language":"javascript","codeLength":93}
+[2025-12-02T08:26:58.508Z] [INFO] Executing javascript code via Groq API
+[2025-12-02T08:30:18.069Z] [INFO] Executing code {"language":"javascript","codeLength":93}
+[2025-12-02T08:30:18.074Z] [INFO] Executing javascript code via Groq API
+[2025-12-02T08:30:18.076Z] [INFO] Executing with model: mixtral-8x7b-32768-01 (Attempt 1/3)
+[2025-12-02T08:30:19.886Z] [INFO] Executing with model: mixtral-8x7b-32768-01 (Attempt 2/3)
+[2025-12-02T08:30:21.978Z] [INFO] Executing with model: mixtral-8x7b-32768-01 (Attempt 3/3)
+[2025-12-02T08:30:25.068Z] [INFO] Executing with model: mixtral-8x7b-32768-01 (Attempt 4/3)
+[2025-12-02T08:35:29.158Z] [INFO] Code Execution Service initialized {"primaryModel":"mixtral-8x7b-32768","fallbackModel":"llama2-70b-4096","tertiaryModel":"gemma2-9b-it"}
+[2025-12-02T08:35:41.606Z] [INFO] Code Execution Service initialized {"primaryModel":"mixtral-8x7b-32768","fallbackModel":"llama2-70b-4096","tertiaryModel":"gemma2-9b-it"}
+[2025-12-02T08:35:54.112Z] [INFO] Code Execution Service initialized {"primaryModel":"mixtral-8x7b-32768","fallbackModel":"llama2-70b-4096","tertiaryModel":"gemma2-9b-it"}
+[2025-12-02T08:36:01.012Z] [INFO] Code Execution Service initialized {"primaryModel":"mixtral-8x7b-32768","fallbackModel":"llama2-70b-4096","tertiaryModel":"gemma2-9b-it"}
+[2025-12-02T08:36:09.797Z] [INFO] Code Execution Service initialized {"primaryModel":"mixtral-8x7b-32768","fallbackModel":"llama2-70b-4096","tertiaryModel":"gemma2-9b-it"}
+[2025-12-02T08:37:02.726Z] [INFO] Code Execution Service initialized {"primaryModel":"mixtral-8x7b-32768","fallbackModel":"llama2-70b-4096","tertiaryModel":"gemma2-9b-it"}
+[2025-12-02T08:38:11.367Z] [INFO] Code Execution Service initialized {"primaryModel":"mixtral-8x7b-32768","fallbackModel":"llama2-70b-4096","tertiaryModel":"gemma2-9b-it"}
+[2025-12-02T08:39:17.254Z] [INFO] Executing code {"language":"javascript","codeLength":93}
+[2025-12-02T08:39:17.257Z] [INFO] Executing javascript code via Groq API
+[2025-12-02T08:39:17.260Z] [INFO] Executing with model: mixtral-8x7b-32768 (Attempt 1/3)
+[2025-12-02T08:39:17.673Z] [INFO] 🔄 Retrying with fallback model: llama2-70b-4096
+[2025-12-02T08:39:17.675Z] [INFO] Executing with model: llama2-70b-4096 (Attempt 1/3)
+[2025-12-02T08:39:17.739Z] [INFO] 🔄 Retrying with fallback model: gemma2-9b-it
+[2025-12-02T08:39:17.741Z] [INFO] Executing with model: gemma2-9b-it (Attempt 1/3)
+[2025-12-02T08:46:08.883Z] [INFO] Code Execution Service initialized {"primaryModel":"mixtral-8x7b-32768","fallbackModel":"llama2-70b-4096","tertiaryModel":"gemma2-9b-it"}
+[2025-12-02T08:49:11.042Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-02T08:50:23.249Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-02T08:51:47.951Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-02T08:52:19.482Z] [INFO] Executing code {"language":"javascript","codeLength":93}
+[2025-12-02T08:52:19.484Z] [INFO] Executing javascript code via Groq API
+[2025-12-02T08:52:19.486Z] [INFO] Executing with model: llama-3.1-8b-instant (Attempt 1/3)
+[2025-12-02T08:52:19.852Z] [INFO] ✅ Execution successful with llama-3.1-8b-instant {"executionTime":366}
+[2025-12-02T08:52:39.799Z] [INFO] Executing code {"language":"javascript","codeLength":19}
+[2025-12-02T08:52:39.802Z] [INFO] Executing javascript code via Groq API
+[2025-12-02T08:52:39.803Z] [INFO] Executing with model: llama-3.1-8b-instant (Attempt 1/3)
+[2025-12-02T08:52:39.989Z] [INFO] ✅ Execution successful with llama-3.1-8b-instant {"executionTime":186}
+[2025-12-02T08:52:45.863Z] [INFO] Executing code {"language":"javascript","codeLength":21}
+[2025-12-02T08:52:45.865Z] [INFO] Executing javascript code via Groq API
+[2025-12-02T08:52:45.866Z] [INFO] Executing with model: llama-3.1-8b-instant (Attempt 1/3)
+[2025-12-02T08:52:46.269Z] [INFO] ✅ Execution successful with llama-3.1-8b-instant {"executionTime":403}
+[2025-12-02T08:52:55.315Z] [INFO] Executing code {"language":"javascript","codeLength":95}
+[2025-12-02T08:52:55.317Z] [INFO] Executing javascript code via Groq API
+[2025-12-02T08:52:55.318Z] [INFO] Executing with model: llama-3.1-8b-instant (Attempt 1/3)
+[2025-12-02T08:52:55.491Z] [INFO] ✅ Execution successful with llama-3.1-8b-instant {"executionTime":173}
+[2025-12-02T08:53:10.854Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-02T12:44:48.121Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-02T12:46:27.610Z] [INFO] Executing code {"language":"python","codeLength":39}
+[2025-12-02T12:46:27.614Z] [INFO] Executing python code via Groq API
+[2025-12-02T12:46:27.616Z] [INFO] Executing with model: llama-3.1-8b-instant (Attempt 1/3)
+[2025-12-02T12:46:28.197Z] [INFO] ✅ Execution successful with llama-3.1-8b-instant {"executionTime":581}
+[2025-12-02T12:47:12.193Z] [INFO] Executing code {"language":"python","codeLength":52}
+[2025-12-02T12:47:12.195Z] [INFO] Executing python code via Groq API
+[2025-12-02T12:47:12.197Z] [INFO] Executing with model: llama-3.1-8b-instant (Attempt 1/3)
+[2025-12-02T12:47:12.409Z] [INFO] ✅ Execution successful with llama-3.1-8b-instant {"executionTime":212}
+[2025-12-02T12:58:43.202Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-02T12:59:08.054Z] [INFO] Executing code {"language":"python","codeLength":39}
+[2025-12-02T12:59:08.059Z] [INFO] Executing python code via Groq API
+[2025-12-02T12:59:08.061Z] [INFO] Executing with model: llama-3.1-8b-instant (Attempt 1/3)
+[2025-12-02T12:59:08.653Z] [INFO] ✅ Execution successful with llama-3.1-8b-instant {"executionTime":592}
+[2025-12-02T12:59:15.456Z] [INFO] Executing code {"language":"python","codeLength":41}
+[2025-12-02T12:59:15.458Z] [INFO] Executing python code via Groq API
+[2025-12-02T12:59:15.459Z] [INFO] Executing with model: llama-3.1-8b-instant (Attempt 1/3)
+[2025-12-02T12:59:15.645Z] [INFO] ✅ Execution successful with llama-3.1-8b-instant {"executionTime":186}
+[2025-12-02T12:59:51.330Z] [INFO] Executing code {"language":"python","codeLength":47}
+[2025-12-02T12:59:51.332Z] [INFO] Executing python code via Groq API
+[2025-12-02T12:59:51.334Z] [INFO] Executing with model: llama-3.1-8b-instant (Attempt 1/3)
+[2025-12-02T12:59:51.579Z] [INFO] ✅ Execution successful with llama-3.1-8b-instant {"executionTime":245}
+[2025-12-02T13:00:10.360Z] [INFO] Executing code {"language":"python","codeLength":47}
+[2025-12-02T13:00:10.362Z] [INFO] Executing python code via Groq API
+[2025-12-02T13:00:10.363Z] [INFO] Executing with model: llama-3.1-8b-instant (Attempt 1/3)
+[2025-12-02T13:00:10.579Z] [INFO] ✅ Execution successful with llama-3.1-8b-instant {"executionTime":215}
+[2025-12-02T13:00:22.565Z] [INFO] Executing code {"language":"python","codeLength":47}
+[2025-12-02T13:00:22.568Z] [INFO] Executing python code via Groq API
+[2025-12-02T13:00:22.569Z] [INFO] Executing with model: llama-3.1-8b-instant (Attempt 1/3)
+[2025-12-02T13:00:22.808Z] [INFO] ✅ Execution successful with llama-3.1-8b-instant {"executionTime":239}
+[2025-12-02T13:05:12.743Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-02T13:05:55.040Z] [INFO] Executing code {"language":"javascript","codeLength":33}
+[2025-12-02T13:05:55.045Z] [INFO] Executing javascript code via Groq API
+[2025-12-02T13:05:55.046Z] [INFO] Executing with model: llama-3.1-8b-instant (Attempt 1/3)
+[2025-12-02T13:05:55.297Z] [INFO] ✅ Execution successful with llama-3.1-8b-instant {"executionTime":251}
+[2025-12-02T13:06:02.824Z] [INFO] Executing code {"language":"javascript","codeLength":37}
+[2025-12-02T13:06:02.826Z] [INFO] Executing javascript code via Groq API
+[2025-12-02T13:06:02.827Z] [INFO] Executing with model: llama-3.1-8b-instant (Attempt 1/3)
+[2025-12-02T13:06:03.030Z] [INFO] ✅ Execution successful with llama-3.1-8b-instant {"executionTime":203}
+[2025-12-02T13:06:20.290Z] [INFO] Executing code {"language":"javascript","codeLength":16}
+[2025-12-02T13:06:20.292Z] [INFO] Executing javascript code via Groq API
+[2025-12-02T13:06:20.293Z] [INFO] Executing with model: llama-3.1-8b-instant (Attempt 1/3)
+[2025-12-02T13:06:20.487Z] [INFO] ✅ Execution successful with llama-3.1-8b-instant {"executionTime":194}
+[2025-12-02T13:06:43.959Z] [INFO] Executing code {"language":"javascript","codeLength":36}
+[2025-12-02T13:06:43.961Z] [INFO] Executing javascript code via Groq API
+[2025-12-02T13:06:43.962Z] [INFO] Executing with model: llama-3.1-8b-instant (Attempt 1/3)
+[2025-12-02T13:06:44.138Z] [INFO] ✅ Execution successful with llama-3.1-8b-instant {"executionTime":176}
+[2025-12-02T13:06:44.168Z] [INFO] Executing code {"language":"python","codeLength":39}
+[2025-12-02T13:06:44.170Z] [INFO] Executing python code via Groq API
+[2025-12-02T13:06:44.171Z] [INFO] Executing with model: llama-3.1-8b-instant (Attempt 1/3)
+[2025-12-02T13:06:44.295Z] [INFO] ✅ Execution successful with llama-3.1-8b-instant {"executionTime":124}
+[2025-12-02T13:08:04.291Z] [INFO] Executing code {"language":"javascript","codeLength":22}
+[2025-12-02T13:08:04.293Z] [INFO] Executing javascript code via Groq API
+[2025-12-02T13:08:04.294Z] [INFO] Executing with model: llama-3.1-8b-instant (Attempt 1/3)
+[2025-12-02T13:08:04.622Z] [INFO] ✅ Execution successful with llama-3.1-8b-instant {"executionTime":328}
+[2025-12-02T13:08:05.253Z] [INFO] Executing code {"language":"python","codeLength":47}
+[2025-12-02T13:08:05.254Z] [INFO] Executing python code via Groq API
+[2025-12-02T13:08:05.255Z] [INFO] Executing with model: llama-3.1-8b-instant (Attempt 1/3)
+[2025-12-02T13:08:05.393Z] [INFO] ✅ Execution successful with llama-3.1-8b-instant {"executionTime":138}
+[2025-12-02T13:08:05.685Z] [INFO] Executing code {"language":"javascript","codeLength":53}
+[2025-12-02T13:08:05.689Z] [INFO] Executing javascript code via Groq API
+[2025-12-02T13:08:05.690Z] [INFO] Executing with model: llama-3.1-8b-instant (Attempt 1/3)
+[2025-12-02T13:08:05.823Z] [INFO] ✅ Execution successful with llama-3.1-8b-instant {"executionTime":132}
+[2025-12-02T13:08:06.111Z] [INFO] Executing code {"language":"python","codeLength":59}
+[2025-12-02T13:08:06.112Z] [INFO] Executing python code via Groq API
+[2025-12-02T13:08:06.113Z] [INFO] Executing with model: llama-3.1-8b-instant (Attempt 1/3)
+[2025-12-02T13:08:06.261Z] [INFO] ✅ Execution successful with llama-3.1-8b-instant {"executionTime":148}
+[2025-12-02T13:08:31.599Z] [INFO] Executing code {"language":"javascript","codeLength":16}
+[2025-12-02T13:08:31.601Z] [INFO] Executing javascript code via Groq API
+[2025-12-02T13:08:31.603Z] [INFO] Executing with model: llama-3.1-8b-instant (Attempt 1/3)
+[2025-12-02T13:08:31.803Z] [INFO] ✅ Execution successful with llama-3.1-8b-instant {"executionTime":200}
+[2025-12-02T13:23:50.320Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-02T13:24:51.602Z] [INFO] Executing code {"language":"python","codeLength":47}
+[2025-12-02T13:24:51.604Z] [INFO] Executing python code via Groq API
+[2025-12-02T13:24:51.606Z] [INFO] Executing with model: llama-3.1-8b-instant (Attempt 1/3)
+[2025-12-02T13:24:52.195Z] [INFO] ✅ Execution successful with llama-3.1-8b-instant {"executionTime":588}
+[2025-12-02T13:25:04.589Z] [INFO] Executing code {"language":"python","codeLength":47}
+[2025-12-02T13:25:04.591Z] [INFO] Executing python code via Groq API
+[2025-12-02T13:25:04.593Z] [INFO] Executing with model: llama-3.1-8b-instant (Attempt 1/3)
+[2025-12-02T13:25:04.822Z] [INFO] ✅ Execution successful with llama-3.1-8b-instant {"executionTime":229}
+[2025-12-02T13:25:12.226Z] [INFO] Executing code {"language":"python","codeLength":47}
+[2025-12-02T13:25:12.228Z] [INFO] Executing python code via Groq API
+[2025-12-02T13:25:12.230Z] [INFO] Executing with model: llama-3.1-8b-instant (Attempt 1/3)
+[2025-12-02T13:25:12.431Z] [INFO] ✅ Execution successful with llama-3.1-8b-instant {"executionTime":201}
+[2025-12-02T13:25:18.084Z] [INFO] Executing code {"language":"python","codeLength":47}
+[2025-12-02T13:25:18.086Z] [INFO] Executing python code via Groq API
+[2025-12-02T13:25:18.088Z] [INFO] Executing with model: llama-3.1-8b-instant (Attempt 1/3)
+[2025-12-02T13:25:18.351Z] [INFO] ✅ Execution successful with llama-3.1-8b-instant {"executionTime":263}
+[2025-12-02T13:27:20.528Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-02T13:27:33.060Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-02T13:29:58.433Z] [INFO] Executing code {"language":"java","codeLength":250}
+[2025-12-02T13:29:58.438Z] [INFO] Executing java code via Groq API
+[2025-12-02T13:29:58.441Z] [INFO] Executing with model: llama-3.1-8b-instant (Attempt 1/3)
+[2025-12-02T13:29:58.846Z] [INFO] ✅ Execution successful with llama-3.1-8b-instant {"executionTime":405}
+[2025-12-02T13:37:04.665Z] [INFO] Executing code {"language":"cpp","codeLength":780}
+[2025-12-02T13:37:04.685Z] [INFO] Executing cpp code via Groq API
+[2025-12-02T13:37:04.686Z] [INFO] Executing with model: llama-3.1-8b-instant (Attempt 1/3)
+[2025-12-02T13:37:05.079Z] [INFO] ✅ Execution successful with llama-3.1-8b-instant {"executionTime":393}
+[2025-12-02T13:37:26.386Z] [INFO] Executing code {"language":"cpp","codeLength":890}
+[2025-12-02T13:37:26.388Z] [INFO] Executing cpp code via Groq API
+[2025-12-02T13:37:26.389Z] [INFO] Executing with model: llama-3.1-8b-instant (Attempt 1/3)
+[2025-12-02T13:37:26.608Z] [INFO] ✅ Execution successful with llama-3.1-8b-instant {"executionTime":219}
+[2025-12-02T13:37:35.455Z] [INFO] Executing code {"language":"java","codeLength":890}
+[2025-12-02T13:37:35.457Z] [INFO] Executing java code via Groq API
+[2025-12-02T13:37:35.459Z] [INFO] Executing with model: llama-3.1-8b-instant (Attempt 1/3)
+[2025-12-02T13:37:35.660Z] [INFO] ✅ Execution successful with llama-3.1-8b-instant {"executionTime":201}
+[2025-12-02T13:37:44.674Z] [INFO] Executing code {"language":"java","codeLength":889}
+[2025-12-02T13:37:44.676Z] [INFO] Executing java code via Groq API
+[2025-12-02T13:37:44.678Z] [INFO] Executing with model: llama-3.1-8b-instant (Attempt 1/3)
+[2025-12-02T13:37:44.873Z] [INFO] ✅ Execution successful with llama-3.1-8b-instant {"executionTime":195}
+[2025-12-02T13:38:09.831Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-02T13:44:50.600Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-02T13:44:54.718Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-02T13:45:04.859Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-02T13:46:56.286Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-02T13:48:03.443Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-02T13:49:10.940Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-02T13:50:45.829Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-02T13:51:26.626Z] [INFO] Validating javascript syntax
+[2025-12-02T13:51:26.631Z] [INFO] Executing code {"language":"javascript","codeLength":29}
+[2025-12-02T13:51:26.632Z] [INFO] Executing javascript code via Groq API
+[2025-12-02T13:51:26.634Z] [INFO] Executing with model: llama-3.1-8b-instant (Attempt 1/3)
+[2025-12-02T13:51:27.127Z] [INFO] ✅ Execution successful with llama-3.1-8b-instant {"executionTime":492}
+[2025-12-02T13:51:44.114Z] [INFO] Validating javascript syntax
+[2025-12-02T13:51:45.898Z] [INFO] Validating javascript syntax
+[2025-12-02T13:51:55.629Z] [INFO] Validating java syntax
+[2025-12-02T13:52:31.056Z] [INFO] Validating java syntax
+[2025-12-02T13:52:47.785Z] [INFO] Validating cpp syntax
+[2025-12-02T13:52:47.794Z] [INFO] Executing code {"language":"cpp","codeLength":817}
+[2025-12-02T13:52:47.796Z] [INFO] Executing cpp code via Groq API
+[2025-12-02T13:52:47.798Z] [INFO] Executing with model: llama-3.1-8b-instant (Attempt 1/3)
+[2025-12-02T13:52:48.070Z] [INFO] ✅ Execution successful with llama-3.1-8b-instant {"executionTime":272}
+[2025-12-02T13:53:09.949Z] [INFO] Validating javascript syntax
+[2025-12-02T13:53:09.961Z] [INFO] Executing code {"language":"javascript","codeLength":618}
+[2025-12-02T13:53:09.963Z] [INFO] Executing javascript code via Groq API
+[2025-12-02T13:53:09.966Z] [INFO] Executing with model: llama-3.1-8b-instant (Attempt 1/3)
+[2025-12-02T13:53:10.167Z] [INFO] ✅ Execution successful with llama-3.1-8b-instant {"executionTime":201}
+[2025-12-02T13:53:17.243Z] [INFO] Validating python syntax
+[2025-12-02T13:53:25.618Z] [INFO] Validating cpp syntax
+[2025-12-02T13:54:28.157Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-02T13:54:28.157Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-02T15:03:41.339Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-02T15:32:45.357Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-02T15:55:38.283Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-02T16:05:16.055Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-02T16:06:00.812Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-02T16:07:30.322Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-02T16:09:32.587Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-02T16:18:25.046Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-02T16:26:35.088Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-02T16:30:43.499Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-02T16:36:55.565Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-03T05:00:00.051Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-03T05:01:25.848Z] [INFO] Validating javascript syntax
+[2025-12-03T05:01:25.876Z] [INFO] Executing code {"language":"javascript","codeLength":29}
+[2025-12-03T05:01:25.899Z] [INFO] Executing javascript code via Groq API
+[2025-12-03T05:01:25.902Z] [INFO] Executing with model: llama-3.1-8b-instant (Attempt 1/3)
+[2025-12-03T05:01:26.625Z] [INFO] ✅ Execution successful with llama-3.1-8b-instant {"executionTime":723}
+[2025-12-03T08:01:31.296Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-03T08:32:44.265Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-03T14:03:33.722Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-03T15:02:50.084Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-03T15:03:00.989Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-03T15:03:16.939Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-03T15:13:44.922Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-03T16:08:55.287Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-03T16:09:44.505Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-03T16:09:48.645Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-03T16:31:43.096Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-03T16:41:03.873Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-03T16:41:42.623Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-03T16:41:47.291Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-03T16:42:02.071Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-03T16:42:10.791Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-03T16:51:10.234Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-03T16:53:50.188Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-03T17:00:58.766Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-03T17:01:32.833Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-03T17:03:02.955Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-03T17:03:10.521Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-04T13:40:17.096Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-04T13:44:21.120Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-04T13:48:12.996Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-04T13:51:05.300Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-04T13:51:15.918Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-04T14:03:22.303Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-04T14:03:58.732Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-04T14:04:57.647Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-04T14:08:20.940Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-04T14:08:39.763Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-04T14:09:46.646Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T05:20:27.916Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T05:20:37.743Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T05:20:50.488Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T05:22:21.713Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T05:24:43.934Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T05:26:42.510Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T05:41:40.099Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T05:51:23.073Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T05:51:58.688Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T05:55:12.381Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T06:07:51.810Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T06:09:26.654Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T06:09:58.916Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T06:40:26.541Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T06:41:25.520Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T06:47:15.964Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T06:47:18.542Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T06:47:34.124Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T06:47:36.354Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T06:47:49.520Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T06:47:51.550Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T06:48:04.036Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T06:48:30.221Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T06:48:33.598Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T06:48:53.413Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T06:48:56.420Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T06:49:09.436Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T06:49:16.993Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T09:58:27.219Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T09:58:58.778Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T09:59:32.150Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T10:02:26.047Z] [INFO] New mentor profile created: 69319528611b4b7f0225076b
+[2025-12-07T10:09:25.351Z] [INFO] Mentor profile updated: 69319528611b4b7f0225076b
+[2025-12-07T10:11:42.017Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T10:19:24.939Z] [INFO] Mentor profile updated: 69319528611b4b7f0225076b
+[2025-12-07T10:21:15.918Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T10:21:27.589Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T10:22:48.375Z] [INFO] Mentor profile updated: 69319528611b4b7f0225076b
+[2025-12-07T10:25:08.532Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T10:26:25.052Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T10:46:37.167Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T10:46:40.224Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T10:46:54.561Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T10:47:01.281Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T10:50:41.957Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T10:56:51.352Z] [INFO] Validating javascript syntax
+[2025-12-07T10:56:51.357Z] [INFO] Executing code {"language":"javascript","codeLength":51}
+[2025-12-07T10:56:51.359Z] [INFO] Executing javascript code via Groq API
+[2025-12-07T10:56:51.361Z] [INFO] Executing with model: llama-3.1-8b-instant (Attempt 1/3)
+[2025-12-07T10:56:51.879Z] [INFO] ✅ Execution successful with llama-3.1-8b-instant {"executionTime":518}
+[2025-12-07T10:58:19.840Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T10:58:26.475Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T10:58:33.911Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T10:58:46.967Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T10:59:41.890Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T11:00:25.873Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T11:00:57.767Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T11:01:00.493Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T11:01:16.529Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T11:01:33.411Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T11:01:40.330Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T11:17:41.983Z] [INFO] [MENTOR] Request created: 69356255d24f2499ecda64b4 {"from":"GOBIKA","to":"GOBIKA","timestamp":"2025-12-07T11:17:41.983Z"}
+[2025-12-07T11:47:59.767Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T11:48:15.286Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T11:48:27.932Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T11:49:22.409Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T11:50:47.706Z] [INFO] [MENTOR] Request accepted: 69356255d24f2499ecda64b4 {"mentor":"GOBIKA","student":"GOBIKA"}
+[2025-12-07T12:40:19.390Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T12:42:48.855Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T12:43:23.644Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T12:43:32.794Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T12:44:01.959Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T12:44:08.732Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T12:44:48.119Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T12:45:59.091Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T12:47:08.847Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T12:47:38.228Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T12:48:08.791Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T12:55:01.349Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T13:02:45.862Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T13:07:16.048Z] [INFO] [MENTOR] Request created: 69357c03d4517532eff6159e {"from":"GOBIKA","to":"Dr. Jane Faculty","timestamp":"2025-12-07T13:07:16.047Z"}
+[2025-12-07T13:21:32.794Z] [INFO] [MENTOR] Request created: 69357f5cd4517532eff616a9 {"from":"ABC","to":"GOBIKA","timestamp":"2025-12-07T13:21:32.794Z"}
+[2025-12-07T13:22:18.890Z] [INFO] [MENTOR] Request accepted: 69357f5cd4517532eff616a9 {"mentor":"GOBIKA","student":"ABC"}
+[2025-12-07T13:36:45.395Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T13:42:39.831Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T13:42:51.929Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T13:43:03.452Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T13:44:11.739Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T13:44:23.969Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T13:54:21.354Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T13:54:29.459Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T13:54:44.633Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T13:58:14.503Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T13:58:30.453Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T13:58:57.425Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T13:59:05.236Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T14:01:31.047Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T14:01:43.116Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T14:02:12.101Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T14:02:37.128Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T14:05:36.138Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-07T14:11:29.961Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T12:43:34.713Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T12:55:58.336Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T12:56:19.807Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T12:56:22.527Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T12:56:43.312Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T12:57:24.179Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T12:57:35.291Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T12:57:41.106Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T13:06:08.118Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T13:10:33.061Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T13:10:49.350Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T13:11:17.986Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T13:13:05.870Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T13:18:54.962Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T13:19:01.179Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T13:19:18.672Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T13:19:38.088Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T13:21:01.149Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T13:21:04.036Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T13:21:30.639Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T13:21:49.976Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T13:22:09.863Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T13:22:12.821Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T13:23:12.589Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T13:23:32.721Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T13:34:00.917Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T13:35:12.005Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T13:35:38.785Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T13:35:44.867Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T13:35:51.127Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T13:35:56.359Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T13:36:01.991Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T13:36:08.355Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T13:36:14.195Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T13:36:23.687Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T13:36:29.787Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T13:36:48.648Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T13:37:02.290Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T13:37:09.878Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T13:37:22.763Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T13:37:33.808Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T13:37:38.438Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T13:37:48.469Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T13:38:01.617Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T13:38:11.035Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T13:38:20.254Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T13:38:55.406Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T13:41:07.309Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T13:42:11.040Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T13:42:47.457Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T13:43:06.450Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T13:43:40.214Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T13:44:17.300Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T13:44:24.125Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T13:44:34.611Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T13:45:02.365Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T13:45:21.068Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T13:45:27.018Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T13:45:40.621Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T13:46:00.483Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T13:46:16.357Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T13:47:36.885Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T13:47:48.982Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T13:47:52.241Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T13:51:51.130Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T13:52:24.473Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T13:52:35.147Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T14:09:25.569Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T14:09:47.466Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T14:09:52.216Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T14:10:17.589Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T14:11:15.264Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T14:22:59.900Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T14:24:17.126Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T14:28:16.953Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T14:28:34.767Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T14:29:01.873Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T14:50:22.757Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T14:52:13.716Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T14:53:42.088Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T14:54:16.321Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T14:55:38.540Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T14:55:38.695Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T14:55:38.737Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T14:55:46.862Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T14:55:47.025Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T14:55:47.088Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T14:56:30.095Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T15:03:38.451Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T15:05:29.342Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T15:07:16.141Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T15:15:13.657Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T15:16:12.949Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T15:18:06.980Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T15:19:53.343Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T15:27:02.491Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T15:29:08.948Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T15:30:39.240Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T15:30:48.774Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T15:31:29.711Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T15:32:44.091Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T15:34:28.794Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T15:43:58.154Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T15:44:02.470Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T15:44:19.158Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T16:42:45.087Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T16:47:37.226Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T16:47:54.609Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T16:49:02.026Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T16:49:30.844Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T16:49:59.091Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T16:50:52.386Z] [INFO] New freelancer profile created: demo-user-1765299052296
+[2025-12-09T16:50:56.185Z] [INFO] New freelancer profile created: demo-user-1765299056154
+[2025-12-09T16:52:19.178Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T16:52:53.492Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T16:55:15.911Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T16:56:33.534Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T16:59:02.966Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T16:59:28.772Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T17:00:04.018Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T17:01:32.127Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T17:04:56.352Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T17:06:41.987Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T17:09:58.103Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T17:11:09.656Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T17:11:22.459Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T17:12:41.846Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T17:13:24.459Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T17:13:54.198Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T17:14:58.578Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T17:17:43.516Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T17:17:51.242Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T17:18:01.191Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T17:18:10.637Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T17:18:40.569Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T17:18:45.003Z] [INFO] New freelancer profile created: test-user-1765300724785
+[2025-12-09T17:19:30.915Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T17:22:19.009Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T17:24:52.360Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T17:25:44.368Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T17:26:40.968Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T17:32:20.202Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T17:35:27.340Z] [INFO] New freelancer profile created: demo-user-1765299779523
+[2025-12-09T17:35:31.044Z] [INFO] Freelancer profile updated: demo-user-1765299779523
+[2025-12-09T18:01:55.802Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T18:07:31.695Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T18:11:17.205Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T18:17:20.296Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T18:20:20.229Z] [INFO] AI Recommendations requested for userId: demo-user-1765299779523
+[2025-12-09T18:20:20.246Z] [INFO] Processing AI recommendations for skills: Python, React
+[2025-12-09T18:20:26.019Z] [INFO] Skill boost requested for userId: demo-user-1765299779523
+[2025-12-09T18:20:26.031Z] [INFO] Processing skill boost for skills: Python, React
+[2025-12-09T18:23:13.667Z] [INFO] AI Recommendations requested for userId: demo-user-1765299779523
+[2025-12-09T18:23:13.864Z] [INFO] Processing AI recommendations for skills: Python, React
+[2025-12-09T18:23:39.855Z] [INFO] AI Recommendations requested for userId: demo-user-1765299779523
+[2025-12-09T18:23:39.875Z] [INFO] Processing AI recommendations for skills: Python, React
+[2025-12-09T18:23:53.052Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T18:24:51.748Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T18:26:34.325Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T18:26:45.134Z] [INFO] AI Recommendations requested for userId: demo-user-1765299779523
+[2025-12-09T18:26:45.149Z] [INFO] Processing AI recommendations for skills: Python, React
+[2025-12-09T18:29:54.228Z] [INFO] AI Recommendations requested for userId: demo-user-1765299779523
+[2025-12-09T18:29:54.257Z] [INFO] Processing AI recommendations for skills: Python, React
+[2025-12-09T18:30:30.489Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-09T18:42:19.934Z] [INFO] Validating javascript syntax
+[2025-12-09T18:42:38.214Z] [INFO] Validating javascript syntax
+[2025-12-09T18:42:38.229Z] [INFO] Executing code {"language":"javascript","codeLength":29}
+[2025-12-09T18:42:38.238Z] [INFO] Executing javascript code via Groq API
+[2025-12-09T18:42:38.245Z] [INFO] Executing with model: llama-3.1-8b-instant (Attempt 1/3)
+[2025-12-09T18:42:39.680Z] [INFO] ✅ Execution successful with llama-3.1-8b-instant {"executionTime":1435}
+[2025-12-10T15:54:37.407Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-10T16:23:02.074Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-10T16:23:06.213Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-10T16:23:12.458Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-10T16:23:23.196Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-10T16:23:27.224Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-10T16:23:34.923Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-10T16:23:42.305Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-10T16:23:46.875Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-10T16:23:57.455Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-10T16:24:02.115Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-10T16:24:07.962Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-10T16:24:14.227Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-10T16:24:18.208Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-10T16:24:23.828Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-10T16:24:35.420Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-10T16:25:19.778Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-10T16:34:58.665Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-10T16:35:04.762Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-10T16:35:14.069Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-10T16:35:20.774Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-10T16:35:29.374Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-10T16:35:36.696Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-10T16:36:02.238Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-10T16:40:37.260Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-10T16:41:23.316Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-10T16:44:26.034Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-10T16:44:49.524Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-10T16:45:53.255Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-10T16:46:10.180Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-10T16:46:50.557Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-10T16:49:13.468Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-10T16:57:53.440Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-10T17:07:12.521Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-10T17:07:27.055Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-10T17:18:04.440Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-10T17:18:19.567Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-10T17:18:21.981Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-10T17:18:39.169Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-10T17:18:41.460Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-10T17:18:59.516Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-10T17:19:02.405Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-10T17:19:07.600Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-10T17:19:16.087Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-10T17:19:19.956Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-10T17:19:28.281Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-10T17:19:52.947Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-10T17:21:12.501Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-10T17:21:17.148Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-10T17:21:35.875Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-10T17:26:26.844Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-10T17:40:55.415Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-10T17:55:22.695Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-10T17:55:35.741Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-10T17:55:46.413Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-10T17:55:55.493Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-10T17:56:00.552Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-10T18:10:12.019Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-10T18:11:14.198Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-10T18:11:16.669Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-10T18:11:32.072Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-10T18:12:06.494Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-10T18:12:14.945Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-10T18:12:22.660Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-10T18:12:39.863Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-10T18:12:44.886Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-10T18:12:49.376Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-10T18:13:16.123Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-10T18:13:19.392Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-10T18:14:21.876Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-10T18:14:24.635Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-11T13:47:16.292Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-11T13:59:30.573Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-11T14:16:54.682Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-11T15:09:23.772Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-11T15:09:31.922Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-11T15:09:55.001Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-11T15:17:05.762Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-11T15:17:18.180Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-11T15:42:08.954Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-11T15:43:26.104Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-11T15:43:45.515Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-11T15:47:09.094Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-11T15:57:15.681Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-11T16:05:38.745Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-11T16:12:19.884Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-11T16:12:52.523Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-11T16:13:52.751Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-11T16:13:55.054Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-11T16:14:04.501Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-11T16:14:25.245Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-11T16:14:31.520Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-11T16:20:38.398Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-11T16:23:44.859Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-11T16:31:08.166Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-11T16:31:36.779Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-11T16:34:47.151Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-11T16:49:29.972Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-11T16:51:02.266Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-11T16:51:14.359Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-11T16:54:12.967Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-11T16:54:35.498Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-11T16:54:41.900Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-11T16:56:33.445Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-11T16:58:35.916Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-11T16:59:54.589Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-11T17:02:13.867Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-11T17:06:44.664Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-11T17:07:16.114Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-11T17:08:24.693Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-11T17:09:07.768Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-11T17:11:11.948Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-11T17:13:16.026Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-11T17:23:47.822Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-11T17:26:32.361Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-11T17:37:41.398Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-11T17:38:31.185Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-11T17:45:32.950Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-11T17:45:36.070Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-11T17:47:43.929Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-11T17:47:50.062Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-11T17:48:19.337Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-11T17:48:32.591Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-11T17:50:17.538Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-11T17:54:44.765Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-11T18:14:19.578Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-11T18:14:35.539Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-11T18:23:34.159Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-11T18:27:26.193Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-11T18:29:03.961Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-12T05:26:35.699Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-12T05:31:33.878Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-12T05:35:55.625Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-12T05:36:59.285Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-12T05:43:46.782Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-12T05:48:25.891Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-12T05:48:35.456Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-12T05:48:48.137Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-12T05:49:00.975Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-12T05:49:41.693Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-12T05:50:16.621Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-12T05:50:27.407Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-12T06:08:42.802Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-12T06:09:56.616Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-12T06:30:29.298Z] [INFO] New freelancer profile created: demo-user-1765382090908
+[2025-12-12T06:30:33.104Z] [INFO] Freelancer profile updated: demo-user-1765382090908
+[2025-12-12T06:41:03.295Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-12T08:02:06.503Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-12T08:03:33.877Z] [INFO] Freelancer profile updated: demo-user-1765382090908
+[2025-12-12T08:05:58.055Z] [INFO] AI Recommendations requested for userId: demo-user-1765382090908
+[2025-12-12T08:05:58.123Z] [INFO] Processing AI recommendations for skills: React.js, Python
+[2025-12-12T08:06:06.323Z] [INFO] AI Recommendations requested for userId: demo-user-1765382090908
+[2025-12-12T08:06:06.422Z] [INFO] Processing AI recommendations for skills: React.js, Python
+[2025-12-12T08:13:37.947Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-12T08:13:59.438Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-12T08:15:02.389Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-12T08:15:18.210Z] [INFO] AI Recommendations requested for userId: demo-user-1765382090908
+[2025-12-12T08:15:18.356Z] [INFO] Processing AI recommendations for skills: React.js, Python, jobName: React Developer
+[2025-12-12T08:16:46.234Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-12T08:17:16.983Z] [INFO] AI Recommendations requested for userId: demo-user-1765382090908
+[2025-12-12T08:17:17.036Z] [INFO] Processing AI recommendations for skills: React.js, Python, jobName: React Developer
+[2025-12-12T08:18:55.461Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-12T08:19:26.729Z] [INFO] AI Recommendations requested for userId: demo-user-1765382090908
+[2025-12-12T08:19:26.918Z] [INFO] Processing AI recommendations for skills: React.js, Python, jobName: React Developer
+[2025-12-12T08:20:48.644Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-12T08:21:12.644Z] [INFO] AI Recommendations requested for userId: demo-user-1765382090908
+[2025-12-12T08:21:12.776Z] [INFO] Processing AI recommendations for skills: React.js, Python, jobName: React Developer
+[2025-12-12T08:23:06.230Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-12T08:23:38.218Z] [INFO] AI Recommendations requested for userId: demo-user-1765382090908
+[2025-12-12T08:23:38.405Z] [INFO] Processing AI recommendations for skills: React.js, Python, jobName: React Developer
+[2025-12-12T08:23:49.697Z] [INFO] AI Recommendations requested for userId: demo-user-1765382090908
+[2025-12-12T08:23:49.753Z] [INFO] Processing AI recommendations for skills: React.js, Python, jobName: Python Developer
+[2025-12-12T08:30:57.462Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-12T08:31:37.772Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-12T08:58:59.303Z] [INFO] AI Recommendations requested for userId: demo-user-1765382090908
+[2025-12-12T08:58:59.382Z] [INFO] Processing AI recommendations for skills: React.js, Python, jobName: Devops developer
+[2025-12-12T09:17:46.052Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-12T09:20:43.099Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-12T09:32:42.586Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-12T09:33:12.312Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-12T09:33:23.559Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-12T09:34:19.947Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-12T09:42:01.942Z] [INFO] AI Recommendations requested for userId: demo-user-1765382090908
+[2025-12-12T09:42:02.016Z] [INFO] Processing AI recommendations for skills: React.js, Python
+[2025-12-12T09:44:37.392Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-12T09:45:23.882Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-12T09:48:46.368Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-12T10:30:13.514Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-12T10:30:41.478Z] [INFO] AI Recommendations requested for userId: demo-user-1765382090908
+[2025-12-12T10:30:41.519Z] [INFO] Processing AI recommendations for skills: React.js, Python
+[2025-12-12T10:33:34.504Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-12T10:35:55.556Z] [INFO] 🚀 COMPREHENSIVE job recommendations requested
+[2025-12-12T10:35:55.558Z] [INFO] 📍 Filters: City=Bangalore, Role=Full Stack Developer, Experience=2, Salary=undefined
+[2025-12-12T10:35:55.601Z] [INFO] ✅ Skills loaded: Web Development, Database Design, API Development, Problem Solving
+[2025-12-12T10:35:55.603Z] [INFO] 🤖 Calling Groq AI for comprehensive analysis...
+[2025-12-12T10:35:57.016Z] [INFO] ✨ Generated 0 comprehensive recommendations
+[2025-12-12T10:36:40.370Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-12T10:36:55.761Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-12T10:37:54.371Z] [INFO] 🚀 COMPREHENSIVE job recommendations requested
+[2025-12-12T10:37:54.373Z] [INFO] 📍 Filters: City=Bangalore, Role=Full Stack Developer, Experience=2, Salary=undefined
+[2025-12-12T10:37:54.385Z] [INFO] ✅ Skills loaded: Web Development, Database Design, API Development, Problem Solving
+[2025-12-12T10:37:54.386Z] [INFO] 🤖 Calling Groq AI for comprehensive analysis...
+[2025-12-12T10:37:54.993Z] [INFO] ✨ Generated 8 comprehensive recommendations
+[2025-12-12T10:38:11.211Z] [INFO] 🚀 COMPREHENSIVE job recommendations requested
+[2025-12-12T10:38:11.212Z] [INFO] 📍 Filters: City=Bangalore, Role=Full Stack Developer, Experience=2, Salary=undefined
+[2025-12-12T10:38:11.225Z] [INFO] ✅ Skills loaded: Web Development, Database Design, API Development, Problem Solving
+[2025-12-12T10:38:11.227Z] [INFO] 🤖 Calling Groq AI for comprehensive analysis...
+[2025-12-12T10:38:11.344Z] [INFO] ✨ Generated 8 comprehensive recommendations
+[2025-12-12T10:38:37.519Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-12T10:38:47.847Z] [INFO] 🚀 COMPREHENSIVE job recommendations requested
+[2025-12-12T10:38:47.849Z] [INFO] 📍 Filters: City=Bangalore, Role=Full Stack Developer, Experience=0, Salary=undefined
+[2025-12-12T10:38:47.898Z] [INFO] ✅ Skills loaded: React.js, Python
+[2025-12-12T10:38:47.899Z] [INFO] 🤖 Calling Groq AI for comprehensive analysis...
+[2025-12-12T10:38:48.305Z] [INFO] ✨ Generated 8 comprehensive recommendations
+[2025-12-12T10:40:33.952Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-12T10:41:43.983Z] [INFO] 🚀 COMPREHENSIVE job recommendations requested
+[2025-12-12T10:41:43.987Z] [INFO] 📍 Filters: City=Bangalore, Role=Data Scientist, Experience=0, Salary=undefined
+[2025-12-12T10:41:44.053Z] [INFO] ✅ Skills loaded: React.js, Python
+[2025-12-12T10:41:44.055Z] [INFO] 🤖 Calling Groq AI for comprehensive analysis...
+[2025-12-12T10:41:44.761Z] [INFO] ✨ Generated 8 comprehensive recommendations
+[2025-12-12T10:42:01.255Z] [INFO] 🚀 COMPREHENSIVE job recommendations requested
+[2025-12-12T10:42:01.257Z] [INFO] 📍 Filters: City=Bangalore, Role=React Developer, Experience=0, Salary=undefined
+[2025-12-12T10:42:01.298Z] [INFO] ✅ Skills loaded: React.js, Python
+[2025-12-12T10:42:01.300Z] [INFO] 🤖 Calling Groq AI for comprehensive analysis...
+[2025-12-12T10:42:01.696Z] [INFO] ✨ Generated 8 comprehensive recommendations
+[2025-12-13T04:21:47.798Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-13T04:22:25.442Z] [INFO] 🚀 COMPREHENSIVE job recommendations requested
+[2025-12-13T04:22:25.445Z] [INFO] 📍 Filters: City=Bangalore, Role=Full Stack Developer, Experience=0, Salary=undefined
+[2025-12-13T04:22:25.475Z] [INFO] ✅ Skills loaded: React.js, Python
+[2025-12-13T04:22:25.477Z] [INFO] 🤖 Calling Groq AI for comprehensive analysis...
+[2025-12-13T04:22:26.175Z] [INFO] ✨ Generated 8 comprehensive recommendations
+[2025-12-13T04:22:45.592Z] [INFO] 🚀 COMPREHENSIVE job recommendations requested
+[2025-12-13T04:22:45.595Z] [INFO] 📍 Filters: City=Kolkata, Role=Full Stack Developer, Experience=0, Salary=undefined
+[2025-12-13T04:22:45.642Z] [INFO] ✅ Skills loaded: React.js, Python
+[2025-12-13T04:22:45.645Z] [INFO] 🤖 Calling Groq AI for comprehensive analysis...
+[2025-12-13T04:22:45.862Z] [INFO] ✨ Generated 8 comprehensive recommendations
+[2025-12-13T04:23:01.093Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-13T04:24:23.258Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}
+[2025-12-13T04:44:14.774Z] [INFO] 🚀 COMPREHENSIVE job recommendations requested
+[2025-12-13T04:44:14.779Z] [INFO] 📍 Filters: City=Bangalore, Role=Full Stack Developer, Experience=0, Salary=undefined
+[2025-12-13T04:44:14.811Z] [INFO] ✅ Skills loaded: React.js, Python
+[2025-12-13T04:44:14.814Z] [INFO] 🤖 Calling Groq AI for comprehensive analysis...
+[2025-12-13T04:44:15.517Z] [INFO] ✨ Generated 8 comprehensive recommendations
+[2025-12-13T04:44:28.293Z] [INFO] 🚀 COMPREHENSIVE job recommendations requested
+[2025-12-13T04:44:28.299Z] [INFO] 📍 Filters: City=Chennai, Role=Full Stack Developer, Experience=0, Salary=undefined
+[2025-12-13T04:44:28.365Z] [INFO] ✅ Skills loaded: React.js, Python
+[2025-12-13T04:44:28.366Z] [INFO] 🤖 Calling Groq AI for comprehensive analysis...
+[2025-12-13T04:44:28.551Z] [INFO] ✨ Generated 8 comprehensive recommendations
+[2025-12-13T05:42:03.910Z] [INFO] Validating javascript syntax
+[2025-12-13T05:42:03.918Z] [INFO] Executing code {"language":"javascript","codeLength":51}
+[2025-12-13T05:42:03.920Z] [INFO] Executing javascript code via Groq API
+[2025-12-13T05:42:03.923Z] [INFO] Executing with model: llama-3.1-8b-instant (Attempt 1/3)
+[2025-12-13T05:42:04.375Z] [INFO] ✅ Execution successful with llama-3.1-8b-instant {"executionTime":453}
+[2025-12-13T05:42:44.100Z] [INFO] Validating javascript syntax
+[2025-12-13T05:42:44.102Z] [INFO] Executing code {"language":"javascript","codeLength":763}
+[2025-12-13T05:42:44.104Z] [INFO] Executing javascript code via Groq API
+[2025-12-13T05:42:44.106Z] [INFO] Executing with model: llama-3.1-8b-instant (Attempt 1/3)
+[2025-12-13T05:42:44.450Z] [INFO] ✅ Execution successful with llama-3.1-8b-instant {"executionTime":344}
+[2025-12-13T06:20:31.220Z] [INFO] Validating javascript syntax
+[2025-12-13T06:20:31.231Z] [INFO] Executing code {"language":"javascript","codeLength":51}
+[2025-12-13T06:20:31.234Z] [INFO] Executing javascript code via Groq API
+[2025-12-13T06:20:31.236Z] [INFO] Executing with model: llama-3.1-8b-instant (Attempt 1/3)
+[2025-12-13T06:20:31.575Z] [INFO] ✅ Execution successful with llama-3.1-8b-instant {"executionTime":339}
+[2025-12-13T06:27:10.365Z] [INFO] 🚀 COMPREHENSIVE job recommendations requested
+[2025-12-13T06:27:10.380Z] [INFO] 📍 Filters: City=Chennai, Role=DevOps Engineer, Experience=0, Salary=undefined
+[2025-12-13T06:27:10.434Z] [INFO] ✅ Skills loaded: React.js, Python
+[2025-12-13T06:27:10.437Z] [INFO] 🤖 Calling Groq AI for comprehensive analysis...
+[2025-12-13T06:27:10.824Z] [INFO] ✨ Generated 8 comprehensive recommendations
+[2025-12-13T06:58:02.948Z] [INFO] Validating javascript syntax
+[2025-12-13T06:58:02.969Z] [INFO] Executing code {"language":"javascript","codeLength":51}
+[2025-12-13T06:58:02.971Z] [INFO] Executing javascript code via Groq API
+[2025-12-13T06:58:02.973Z] [INFO] Executing with model: llama-3.1-8b-instant (Attempt 1/3)
+[2025-12-13T06:58:05.299Z] [INFO] Executing with model: llama-3.1-8b-instant (Attempt 2/3)
+[2025-12-13T06:58:08.572Z] [INFO] Executing with model: llama-3.1-8b-instant (Attempt 3/3)
+[2025-12-13T06:58:13.018Z] [INFO] Executing with model: llama-3.1-8b-instant (Attempt 4/3)
+[2025-12-13T06:59:11.400Z] [INFO] Validating javascript syntax
+[2025-12-13T06:59:11.402Z] [INFO] Executing code {"language":"javascript","codeLength":51}
+[2025-12-13T06:59:11.407Z] [INFO] Executing javascript code via Groq API
+[2025-12-13T06:59:11.410Z] [INFO] Executing with model: llama-3.1-8b-instant (Attempt 1/3)
+[2025-12-13T06:59:11.814Z] [INFO] ✅ Execution successful with llama-3.1-8b-instant {"executionTime":404}
+[2025-12-13T07:01:56.742Z] [INFO] Mentor profile updated: 69319528611b4b7f0225076b
+[2025-12-13T07:01:56.783Z] [INFO] Faculty record synced for mentor: 69319528611b4b7f0225076b
+[2025-12-13T07:05:02.717Z] [INFO] Freelancer profile updated: demo-user-1765382090908
+[2025-12-13T07:05:20.741Z] [INFO] 🚀 COMPREHENSIVE job recommendations requested
+[2025-12-13T07:05:20.749Z] [INFO] 📍 Filters: City=Hyderabad, Role=DevOps Engineer, Experience=0, Salary=undefined
+[2025-12-13T07:05:20.806Z] [INFO] ✅ Skills loaded: React.js, Python
+[2025-12-13T07:05:20.808Z] [INFO] 🤖 Calling Groq AI for comprehensive analysis...
+[2025-12-13T07:05:21.167Z] [INFO] ✨ Generated 8 comprehensive recommendations
+[2025-12-13T07:45:29.772Z] [INFO] Validating javascript syntax
+[2025-12-13T07:45:29.778Z] [INFO] Executing code {"language":"javascript","codeLength":51}
+[2025-12-13T07:45:29.780Z] [INFO] Executing javascript code via Groq API
+[2025-12-13T07:45:29.785Z] [INFO] Executing with model: llama-3.1-8b-instant (Attempt 1/3)
+[2025-12-13T07:45:30.182Z] [INFO] ✅ Execution successful with llama-3.1-8b-instant {"executionTime":397}
+[2025-12-13T07:47:30.375Z] [INFO] Mentor profile updated: 69319528611b4b7f0225076b
+[2025-12-13T07:47:30.397Z] [INFO] Faculty record synced for mentor: 69319528611b4b7f0225076b
+[2025-12-13T07:50:55.984Z] [INFO] Freelancer profile updated: demo-user-1765382090908
+[2025-12-13T07:51:17.414Z] [INFO] 🚀 COMPREHENSIVE job recommendations requested
+[2025-12-13T07:51:17.415Z] [INFO] 📍 Filters: City=Pune, Role=Python Developer, Experience=0, Salary=undefined
+[2025-12-13T07:51:17.469Z] [INFO] ✅ Skills loaded: React.js, Python
+[2025-12-13T07:51:17.473Z] [INFO] 🤖 Calling Groq AI for comprehensive analysis...
+[2025-12-13T07:51:17.805Z] [INFO] ✨ Generated 8 comprehensive recommendations
+[2025-12-22T08:39:10.124Z] [INFO] Code Execution Service initialized {"primaryModel":"llama-3.1-8b-instant","fallbackModel":"llama-3.3-70b-versatile","tertiaryModel":"llama-3.1-8b-instant"}

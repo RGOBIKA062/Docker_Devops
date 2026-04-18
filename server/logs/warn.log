@@ -1,0 +1,43 @@
+[2025-12-02T08:13:32.361Z] [WARN] Retry attempt 1 of 3
+[2025-12-02T08:13:33.369Z] [WARN] Retry attempt 2 of 3
+[2025-12-02T08:13:35.384Z] [WARN] Retry attempt 3 of 3
+[2025-12-02T08:13:52.797Z] [WARN] Retry attempt 1 of 3
+[2025-12-02T08:13:53.801Z] [WARN] Retry attempt 2 of 3
+[2025-12-02T08:13:55.815Z] [WARN] Retry attempt 3 of 3
+[2025-12-02T08:19:51.292Z] [WARN] Retry attempt 1 of 3
+[2025-12-02T08:19:52.306Z] [WARN] Retry attempt 2 of 3
+[2025-12-02T08:19:54.313Z] [WARN] Retry attempt 3 of 3
+[2025-12-02T08:24:17.639Z] [WARN] Retry attempt 1 of 3
+[2025-12-02T08:24:18.722Z] [WARN] Retry attempt 2 of 3
+[2025-12-02T08:24:20.826Z] [WARN] Retry attempt 3 of 3
+[2025-12-02T08:26:58.737Z] [WARN] Retry attempt 1 of 3
+[2025-12-02T08:26:59.797Z] [WARN] Retry attempt 2 of 3
+[2025-12-02T08:27:01.862Z] [WARN] Retry attempt 3 of 3
+[2025-12-02T08:30:18.882Z] [WARN] Retry attempt 1 of 3, waiting 1000ms
+[2025-12-02T08:30:19.967Z] [WARN] Retry attempt 2 of 3, waiting 2000ms
+[2025-12-02T08:30:22.057Z] [WARN] Retry attempt 3 of 3, waiting 3000ms
+[2025-12-02T08:39:17.665Z] [WARN] Error on attempt 1: {"code":"","message":"400 {\"error\":{\"message\":\"The model `mixtral-8x7b-32768` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.\",\"type\":\"invalid_request_error\",\"code\":\"model_decommissioned\"}}","model":"mixtral-8x7b-32768"}
+[2025-12-02T08:39:17.670Z] [WARN] ⚠️ Cascading to next model: llama2-70b-4096
+[2025-12-02T08:39:17.734Z] [WARN] Error on attempt 1: {"code":"","message":"404 {\"error\":{\"message\":\"The model `llama2-70b-4096` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}","model":"llama2-70b-4096"}
+[2025-12-02T08:39:17.737Z] [WARN] ⚠️ Cascading to next model: gemma2-9b-it
+[2025-12-02T08:39:17.819Z] [WARN] Error on attempt 1: {"code":"","message":"400 {\"error\":{\"message\":\"The model `gemma2-9b-it` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.\",\"type\":\"invalid_request_error\",\"code\":\"model_decommissioned\"}}","model":"gemma2-9b-it"}
+[2025-12-02T13:51:44.126Z] [WARN] Syntax validation failed {"language":"javascript","errors":[{"type":"SyntaxError","message":"Unexpected identifier 'twoSum'","line":null}]}
+[2025-12-02T13:51:45.904Z] [WARN] Syntax validation failed {"language":"javascript","errors":[{"type":"SyntaxError","message":"Unexpected identifier 'twoSum'","line":null}]}
+[2025-12-02T13:51:55.632Z] [WARN] Syntax validation failed {"language":"java","errors":[{"type":"Error","message":"Java code must contain \"public class\" declaration"}]}
+[2025-12-02T13:52:31.058Z] [WARN] Syntax validation failed {"language":"java","errors":[{"type":"Error","message":"Java code must contain \"public class\" declaration"}]}
+[2025-12-02T13:53:17.250Z] [WARN] Syntax validation failed {"language":"python","errors":[{"type":"SyntaxError","message":"Control statement must end with colon (:)","line":4},{"type":"SyntaxError","message":"Control statement must end with colon (:)","line":8},{"type":"SyntaxError","message":"Control statement must end with colon (:)","line":12},{"type":"SyntaxError","message":"Control statement must end with colon (:)","line":26}]}
+[2025-12-02T13:53:25.620Z] [WARN] Syntax validation failed {"language":"cpp","errors":[{"type":"Warning","message":"C++ code typically includes header files with #include"},{"type":"Error","message":"C++ program must have a main() function"},{"type":"Warning","message":"Consider using \"using namespace std;\" or prefix std:: for standard library"}]}
+[2025-12-07T10:41:26.646Z] [WARN] Invalid code execution request {"errors":["Language must be one of: javascript, python, java, cpp"]}
+[2025-12-07T10:44:31.028Z] [WARN] Invalid code execution request {"errors":["Language must be one of: javascript, python, java, cpp"]}
+[2025-12-09T18:42:19.963Z] [WARN] Syntax validation failed {"language":"javascript","errors":[{"type":"SyntaxError","message":"Unexpected token '<'","line":null}]}
+[2025-12-12T08:58:59.431Z] [WARN] Error searching DB for job openings; falling back to AI: "text index required for $text query"
+[2025-12-12T10:35:55.598Z] [WARN] ⚠️ No skills in profile. Using generic skills.
+[2025-12-12T10:37:54.382Z] [WARN] ⚠️ No skills in profile. Using generic skills.
+[2025-12-12T10:38:11.224Z] [WARN] ⚠️ No skills in profile. Using generic skills.
+[2025-12-13T06:58:04.292Z] [WARN] Error on attempt 1: {"code":"","message":"Connection error.","model":"llama-3.1-8b-instant"}
+[2025-12-13T06:58:04.294Z] [WARN] ⏳ Retrying in 1000ms (attempt 1/3)
+[2025-12-13T06:58:06.562Z] [WARN] Error on attempt 2: {"code":"","message":"Connection error.","model":"llama-3.1-8b-instant"}
+[2025-12-13T06:58:06.564Z] [WARN] ⏳ Retrying in 2000ms (attempt 2/3)
+[2025-12-13T06:58:10.004Z] [WARN] Error on attempt 3: {"code":"","message":"Connection error.","model":"llama-3.1-8b-instant"}
+[2025-12-13T06:58:10.005Z] [WARN] ⏳ Retrying in 3000ms (attempt 3/3)
+[2025-12-13T06:58:14.303Z] [WARN] Error on attempt 4: {"code":"","message":"Connection error.","model":"llama-3.1-8b-instant"}

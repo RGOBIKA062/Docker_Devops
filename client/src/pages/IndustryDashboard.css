@@ -1,0 +1,15 @@
+.hover-glow-heading {
+  position: relative;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.hover-glow-heading:hover {
+  text-shadow: 0 0 15px rgba(255, 149, 0, 0.5);
+  transform: scale(1.02);
+}
+
+.hover-glow-heading:hover span {
+  color: #ff9500;
+  text-shadow: 0 0 15px rgba(255, 149, 0, 0.8);
+}
