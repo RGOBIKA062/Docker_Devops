@@ -60,8 +60,9 @@ pipeline {
                     sh '''
                     echo $PASS | docker login -u $USER --password-stdin
 
-                    docker tag allcollegeevents-server:latest gobikar/allcollegeevents-server:latest
-                    docker tag allcollegeevents-client:latest gobikar/allcollegeevents-client:latest
+                    # ✅ FIXED IMAGE NAMES
+                    docker tag server-server:latest gobikar/allcollegeevents-server:latest
+                    docker tag server-client:latest gobikar/allcollegeevents-client:latest
 
                     docker push gobikar/allcollegeevents-server:latest
                     docker push gobikar/allcollegeevents-client:latest
